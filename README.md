@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+In this project I worked to analyze the sentiments of the survey respondents. Sentiments were divided into 3 categories, i.e. Positive, Negative and Neutral. Further more Respondents were also classified into 2 categories, Males and Females, to check the sentiment. After performing the sentiment analysis, I run a t-test hypothesis test to check if there is a significant difference in the sentiment of both the genders. The results suggested that according to 95% confidence interval, there is on significant difference between sentiments.
